@@ -6,13 +6,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
+# Web-Hebrew-Dictionary
+
 ### Overview
-Include overview here
+For this porject I will be writting web-version of a muitifunctional Hebrew dictionary. It would enable a person to search Hebrew words for a list of English synonyms; and it would enable a person to search English words for a list of Hebrew synonyms. To enable a someone to translate back and forth between Hebrew and English.
 ### Features
-Include Features here
+Hebrew Keyboard: There will be a Hebrew Keyboard included to enable the user to enter Hebrew text manually.
+Search: Users will be able to search for Herbrew words for for their English synonyms, and English words for their Hebrew synonyms.
+Multiple Words: Users will be able to search for mlutiple words at onece.
+Phrases: The program is able to recognize phrases taken from a sentance.
 ### Technologies
-Include Technologies here
+I will be writing this program in java using IntelliJ as the IDE, with spring boot and Persistence.
 ### What I'll Have to Learn
-Include what you will need to learn here
+One thing I have learn form completing this project is how to expand the many-to-many feature of Perisitence to become bidirectional; and how to create input buttens for imputting the Heberew text.
 ### Project Tracker
-Link to your Trello board here
+The link to my Trello board is: https://trello.com/stevenmacklin1
