@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+The link to my Trello board is: https://trello.com/stevenmacklin1
 
-### Project Repo Link
+### Project Repository
 
-Include a link to your project on GitHub.
+The link to the project repository is: https://github.com/sam89f/Hebrew-Dictionary
