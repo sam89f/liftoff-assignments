@@ -21,5 +21,6 @@ I will be writing this program in java using IntelliJ as the IDE, with spring bo
 One thing I have learn form completing this project is how to expand the many-to-many feature of Perisitence to become bidirectional; and how to create input buttens for imputting the Heberew text.
 ### Project Tracker
 The link to my Trello board is: https://trello.com/stevenmacklin1
-                               The link to the project repository is: https://github.com/sam89f/Hebrew-Dictionary
+### Project Repository
+The link to the project repository is: https://github.com/sam89f/Hebrew-Dictionary
 
