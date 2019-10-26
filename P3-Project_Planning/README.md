@@ -8,7 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Home page](https://github.com/sam89f/liftoff-assignments/blob/master/20191026_002948.jpg)
+* ![Home page](https://github.com/sam89f/liftoff-assignments/blob/master/20191026_002948.jpg)
+Formate: ![Alt Text](url)
+
+* ![Home page](https://github.com/sam89f/liftoff-assignments/blob/master/20191026_002948.jpg)
+Formate: ![Alt Text](url)
+
+* ![Home page](https://github.com/sam89f/liftoff-assignments/blob/master/20191026_002948.jpg)
 Formate: ![Alt Text](url)
 
 ### Project Tracker
