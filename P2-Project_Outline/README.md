@@ -22,5 +22,4 @@ One thing I have learn form completing this project is how to expand the many-to
 ### Project Tracker
 The link to my Trello board is: https://trello.com/stevenmacklin1
 ### Project Repository
-The link to the project repository is: https://github.com/sam89f/Hebrew-Dictionary
-
+The link to the project repository is: https://github.com/sam89f/Web-Hebrew-Dictionary2
