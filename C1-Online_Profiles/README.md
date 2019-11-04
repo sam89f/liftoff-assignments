@@ -14,5 +14,5 @@ https://www.linkedin.com/in/steven-macklin-380286183
 
 ### Resume
 
-* ![Home page](https://github.com/sam89f/liftoff-assignments/blob/master/20191026_002948.jpg)
-Formate: ![Home page](url)
+* ![Resume](https://github.com/sam89f/liftoff-assignments/blob/master/newReseme.pdf)
+Formate: ![Resume](url)
