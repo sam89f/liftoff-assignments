@@ -13,6 +13,6 @@ https://github.com/sam89f
 https://www.linkedin.com/in/steven-macklin-380286183
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+* ![Home page](https://github.com/sam89f/liftoff-assignments/blob/master/20191026_002948.jpg)
+Formate: ![Home page](url)
