@@ -13,6 +13,5 @@ https://github.com/sam89f
 https://www.linkedin.com/in/steven-macklin-380286183
 
 ### Resume
-
-* ![Resume](https://github.com/sam89f/liftoff-assignments/blob/master/newReseme.pdf)
-Formate: ![Resume](url)
+https://github.com/sam89f/liftoff-assignments/blob/master/newReseme.pdf - automatic!
+[Resume](https://github.com/sam89f/liftoff-assignments/blob/master/newReseme.pdf)
